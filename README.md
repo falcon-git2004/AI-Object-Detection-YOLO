@@ -26,6 +26,7 @@ The application allows users to upload an image and automatically detects object
 
 ## Project Structure
 
+
 ## Installation
 
 Clone the repository:
@@ -40,6 +41,8 @@ Run Application
 Start the Streamlit app:
 streamlit run app.py
 
+=======
+(Add README documentation)
 ## How It Works
 
 1. User uploads an image.
@@ -57,3 +60,10 @@ YOLOv8 Nano (`yolov8n.pt`) is used for fast object detection.
 - Add custom trained YOLO model
 - Deploy the application online
 - Add more AI features
+
+=======
+
+## Author
+
+Falcon GitHub
+(Add README documentation)
