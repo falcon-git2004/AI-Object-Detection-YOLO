@@ -3,8 +3,8 @@
 A Computer Vision project that detects objects in images using YOLOv8 and provides an interactive web interface using Streamlit.
 
 ## Project Demo
-
 The application allows users to upload an image and automatically detects objects with confidence scores.
+![YOLO Detection Result](assets/result.jpg)
 
 ## Features
 
